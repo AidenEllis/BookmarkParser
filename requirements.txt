@@ -1,0 +1,4 @@
+certifi
+etils==0.6.0
+ujson==5.3.0
+wincertstore==0.2
